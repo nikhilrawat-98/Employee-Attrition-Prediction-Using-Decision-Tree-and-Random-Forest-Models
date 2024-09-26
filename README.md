@@ -1,0 +1,2 @@
+# Employee-Attrition-Prediction-Using-Decision-Tree-and-Random-Forest-Models
+Predicting employee attrition using classification models. Two ML models, Decision Tree &amp; Random Forest, are used to develop a tool that can help HR professionals anticipate employee departures &amp; take proactive measures to improve retention. An interactive R Shiny app is designed to allow users to input data, tune parameters, and predict attrition.
